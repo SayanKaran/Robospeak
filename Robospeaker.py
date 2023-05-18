@@ -1,4 +1,4 @@
-import gtts #google text to speech
+import gtts 
 import playsound
 
 w="Welcome To Robospeech World 1.2.2, Created By Sayan"
